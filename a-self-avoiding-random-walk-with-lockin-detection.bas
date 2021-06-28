@@ -21,5 +21,5 @@
 510 if x>0 and peek(a-2)=32 then 50
 520 if y<24 and peek(a+80)=32 then 50
 530 if y>0 and peek(a-80)=32 then 50
-540 for t=0 to 5000:next 
+540 for t=0 to 1000:next 
 550 goto 25 
